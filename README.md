@@ -8,6 +8,6 @@ Data :
 3.Preprocessed dataset : https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/english_hindi.csv
 
 Models :
-1.Encoder-Decoder Model (Scaler dot Product Attention) : [(https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/testing_transformer.ipynb)]
-2. Encoder-Decoder Model : [(https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/testing_transformer.ipynb)] 
-3.Encoder-Decoder Model(Bahandau Attention) : [(https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/Transformer%20_Models.ipynb)]
+1.Encoder-Decoder Model (Scaler dot Product Attention) :https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/testing_transformer.ipynb
+2. Encoder-Decoder Model : https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/testing_transformer.ipynb
+3.Encoder-Decoder Model(Bahandau Attention) : https://github.com/shiv2398/transliteration_english_to_hindi/blob/main/Transformer%20_Models.ipynb
